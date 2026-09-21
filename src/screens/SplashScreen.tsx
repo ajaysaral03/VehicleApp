@@ -97,7 +97,7 @@ const SplashScreen = ({navigation}: any) => {
           {/* MAIN HEADING */}
 
           <Text style={styles.heading}>
-            Move  freely.{'\n'}
+            Move freely.{'\n'}
             <Text style={styles.headingLight}>
               Go anywhere.
             </Text>
